@@ -1,1 +1,1 @@
-This is a project I made as part of CS 307 (Object Oriented Programming in C++) in the Summer of 2020 at UAH. It demonstrates my experience with object oriented principles, file processing, and the C++ language.
+This is a project I made as part of CS 307 (Object Oriented Programming in C++) in the Summer of 2020 at UAH. It demonstrates experience with object oriented principles, file processing, and the C++ language.
